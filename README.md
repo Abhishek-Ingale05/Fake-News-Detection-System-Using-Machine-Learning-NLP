@@ -93,3 +93,9 @@ Shows correct and wrong predictions.
 
 ```bash
 pip install pandas matplotlib scikit-learn
+#Project Structure
+Fake-News-Detection-System
+├── app.py
+├── Fake.csv
+├── True.csv
+├── README.md
