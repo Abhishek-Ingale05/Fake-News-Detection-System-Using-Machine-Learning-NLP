@@ -1,6 +1,6 @@
 # Fake News Detection System using Machine Learning & NLP
 
-## Project Overview
+# Project Overview
 
 The Fake News Detection System is a Machine Learning and Natural Language Processing (NLP) project used to classify news articles as:
 
