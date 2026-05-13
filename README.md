@@ -89,13 +89,18 @@ Shows correct and wrong predictions.
 
 # How to Run Project
 
-## Install Required Libraries
+# Install Required Libraries
+
+# 📂 Project Structure
 
 ```bash
-pip install pandas matplotlib scikit-learn
-#Project Structure
-Fake-News-Detection-System
+Fake-News-Detection-System/
+│
 ├── app.py
 ├── Fake.csv
 ├── True.csv
 ├── README.md
+├── Figure_1.png
+├── Figure_2.png
+├── Figure_3.png
+
