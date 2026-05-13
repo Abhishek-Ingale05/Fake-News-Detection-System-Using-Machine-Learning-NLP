@@ -85,11 +85,89 @@ Shows model accuracy and error percentage.
 ## 3. Prediction Results Graph
 Shows correct and wrong predictions.
 
+# ▶️ How to Run the Project
+
+## Step 1 : Clone the Repository
+
+```bash
+git clone https://github.com/your-username/Fake-News-Detection-System.git
+```
+
 ---
 
-# How to Run Project
+## Step 2 : Navigate to Project Directory
 
-# Install Required Libraries
+```bash
+cd Fake-News-Detection-System
+```
+
+---
+
+## Step 3 : Install Required Libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+Or install manually:
+
+```bash
+pip install pandas matplotlib scikit-learn
+```
+
+---
+
+## Step 4 : Run the Project
+
+```bash
+python app.py
+```
+
+---
+
+## Step 5 : Enter News Text for Prediction
+
+Example:
+
+```bash
+Enter News Text :
+```
+
+Type any news headline or article text.
+
+---
+
+## Step 6 : View Prediction Result
+
+Output:
+
+```bash
+Prediction : Fake News
+```
+
+or
+
+```bash
+Prediction : Real News
+```
+
+---
+
+# 📦 Install Required Libraries
+
+Install all required Python libraries using:
+
+```bash
+pip install pandas matplotlib scikit-learn
+```
+
+Or install using `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
 
 # 📂 Project Structure
 
