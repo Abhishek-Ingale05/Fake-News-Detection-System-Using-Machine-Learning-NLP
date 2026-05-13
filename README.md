@@ -7,9 +7,9 @@
 
 # Project Overview
 
-<img width="600" height="500" alt="Figure_3" src="https://github.com/user-attachments/assets/18ac63c8-723e-4ae9-a665-d39085d38037" />
-![Fake vs Real News](Figure_1.png)
-
+<img width="300" height="300" alt="Figure_3" src="https://github.com/user-attachments/assets/18ac63c8-723e-4ae9-a665-d39085d38037" />
+<img width="300" height="300" alt="Figure_1" src="https://github.com/user-attachments/assets/bf2cc495-31ae-44d4-9026-a4e225168ed3" />
+<img width="300" height="300" alt="Figure_2" src="https://github.com/user-attachments/assets/15136c50-56c5-4420-b93f-832ac3aea828" />
 
 The Fake News Detection System is a Machine Learning and Natural Language Processing (NLP) project used to classify news articles as:
 
