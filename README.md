@@ -1,6 +1,15 @@
 # Fake News Detection System using Machine Learning & NLP
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
+
 # Project Overview
+
+<img width="600" height="500" alt="Figure_3" src="https://github.com/user-attachments/assets/18ac63c8-723e-4ae9-a665-d39085d38037" />
+![Fake vs Real News](Figure_1.png)
+
 
 The Fake News Detection System is a Machine Learning and Natural Language Processing (NLP) project used to classify news articles as:
 
